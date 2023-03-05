@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "GRDB",
+    name: "GRDB-framework",
     platforms: [
         .iOS(.v11),
         .macOS(.v10_15),
